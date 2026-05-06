@@ -309,7 +309,7 @@ export default function App() {
                 </div>
                 <div>
                   <p className="text-xs font-mono uppercase tracking-widest text-gray-500 mb-1">Call Us</p>
-                  <p className="text-xl font-display">010-XXXX-XXXX</p>
+                  <p className="text-xl font-display">010-9955-0000</p>
                 </div>
               </div>
               
@@ -319,7 +319,7 @@ export default function App() {
                 </div>
                 <div>
                   <p className="text-xs font-mono uppercase tracking-widest text-gray-500 mb-1">Email</p>
-                  <p className="text-xl font-display text-white transition-colors">your@email.com</p>
+                  <p className="text-xl font-display text-white transition-colors">vetys23@naver.com</p>
                 </div>
               </div>
               
